@@ -5,6 +5,7 @@ A lightweight yet robust utility to evaluate the strength of a 4-digit or 6-digi
 Built using **Python** and **Streamlit**, the logic is fully modular and self-contained — no external datasets are used.
 
 ---
+## 👉 [Working Project Deployed on Streamlit](https://vivek151205-mpin-strength-checker-main-v7fhcu.streamlit.app/) 
 
 ## 🧠 Features
 
@@ -121,7 +122,6 @@ mpin_strength_checker/
 👉 [Open in Colab](https://colab.research.google.com/drive/1tutJyZZXtIqOE6wrtntyPZdzVHkqPqar?usp=sharing)
 
 ---
-
 ## 🎥 Video Demo
 
 <p align="center">
